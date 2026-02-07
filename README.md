@@ -246,11 +246,6 @@ HireFlow is a personal productivity enhancement tool, not a hiring service or gu
 - **Terms of Service compliance**: Users must comply with each ATS's specific terms
 - **User responsibility**: Ultimate responsibility for all submitted applications remains with the user
 
-## Support Resources
-
-- **Documentation**: Comprehensive guides available in docs/ directory
-- **Issue management**: GitHub Issues for tracking and resolution
-- **Security concerns**: Direct communication to security@example.com (PGP encryption available)
 
 ## Development Roadmap
 
@@ -261,13 +256,13 @@ HireFlow is a personal productivity enhancement tool, not a hiring service or gu
 - [x] Greenhouse automation engine
 - [x] Complete application tracking
 
-### Phase 2: Enhanced Capabilities (Q2 2024)
+### Phase 2: Enhanced Capabilities (Q2 2026)
 - [ ] LinkedIn professional network integration
 - [ ] Rejection pattern analysis and learning
 - [ ] Interview preparation assistant
 - [ ] Salary negotiation support system
 
-### Phase 3: Advanced Features (Q3 2024)
+### Phase 3: Advanced Features (Q3 2026)
 - [ ] Professional network relationship tracking
 - [ ] Referral request automation
 - [ ] Market trend and compensation analysis
@@ -275,7 +270,7 @@ HireFlow is a personal productivity enhancement tool, not a hiring service or gu
 
 ---
 
-Developed in Toronto, Canada - Engineering privacy-respecting tools for professional advancement.
+Developed in Manitoba, Canada - Engineering privacy-respecting tools for professional advancement.
 
 ---
 
