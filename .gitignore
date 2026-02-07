@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment and secrets
+.env
+*.key
+
+# Local data and generated artifacts
+data/profiles/master.yaml
+data/profiles/bullets/
+!data/profiles/bullets/tech/.gitkeep
+!data/profiles/bullets/projects/.gitkeep
+!data/profiles/bullets/soft_skills/.gitkeep
+data/storage/generated/
+data/storage/screenshots/
+data/storage/logs/
+data/storage/database.sqlite
+n8n/credentials/
+
+# Tooling
+.pytest_cache/
+.mypy_cache/
+.DS_Store
