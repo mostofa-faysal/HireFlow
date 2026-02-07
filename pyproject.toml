@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "job-app-copilot"
+name = "hireflow"
 version = "0.1.0"
-description = "Local-first job application copilot"
+description = "HireFlow: local-first, privacy-focused job application automation"
 authors = ["HireFlow Team"]
 
 [tool.poetry.dependencies]
