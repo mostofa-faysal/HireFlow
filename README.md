@@ -234,7 +234,7 @@ fastapi dev apps/api/main.py
 
 ## License
 
-MIT License - complete terms available in LICENSE file.
+Apache-2.0 License - complete terms available in LICENSE file.
 
 ## Important Disclaimers
 
